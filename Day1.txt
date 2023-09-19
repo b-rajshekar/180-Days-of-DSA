@@ -1,3 +1,5 @@
+Day 1/180
+
 Today day 1 of Learning Data Structures and Algorithms,
 in 1hr 16min youtube video I learned the following
 1) Introduction to Number system from tally mark to Binary.
