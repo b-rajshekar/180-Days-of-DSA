@@ -1,3 +1,4 @@
+/*in this program, numbers will be printed which will be given by the user*/
 #include <iostream>
 using namespace std;
 
